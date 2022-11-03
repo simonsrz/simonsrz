@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Szymon,</h1>
-<h3 align="center">currently pursuing a degree in Computer Science at Warsaw University of Technology</h3>
+<h1 align="center">Hi 👋, I'm Szymon</h1>
+<h3 align="center">Currently pursuing a degree in Computer Science at Warsaw University of Technology</h3>
 
 <p align="left">
 </p>
