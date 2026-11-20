@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Szymon</h1>
-<h3 align="center">Currently pursuing a master's degree in Computer Science at Warsaw University of Technology</h3>
+
+### 👨‍💻 About Me
+- 🎓 **Education:** M.Sc. in Computer Science from **Warsaw University of Technology**
+- 💼 **Current Role**: AI Engineer focused on building scalable, production-ready systems
 
 <p align="left">
 </p>
